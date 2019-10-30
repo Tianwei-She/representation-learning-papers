@@ -6,7 +6,7 @@ May include papers on representation learning, unsupervised learning on images o
   - ![instance-recognition](figures/instance-recognition.png)
   - Training: an instance-level classification task, where the "label" can be regarded as the feature vector for each image/instance in the memory bank. 
   - Non-parametric Softmax
-    - <img src="figures/IR-non-parametric-softmax.png" alt="IR-non-parametric-softmax" width="100"/>
+    - <img src="figures/IR-non-parametric-softmax.png" alt="IR-non-parametric-softmax" width="300"/>
     - Generalizable to new classes/instances, Computationally efficient by eliminating weights
   - Noise-Contrastive Estimation (I don't fully understand now)
   - Testing: weighted kNN or SVM trained on learned feature vectors
