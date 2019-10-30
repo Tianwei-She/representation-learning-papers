@@ -8,7 +8,7 @@ May include papers on representation learning, unsupervised learning on images o
   - Non-parametric Softmax
     - <img src="figures/IR-non-parametric-softmax.png" alt="IR-non-parametric-softmax" width="300"/>
     - Generalizable to new classes/instances, Computationally efficient by eliminating weights
-  - Noise-Contrastive Estimation (I don't fully understand now)
+  - Noise-Contrastive Estimation (I don't fully understand it for now)
   - **Testing**: weighted kNN or SVM trained on learned feature vectors
   - Experiments
     - On CIFAR10, the non-parametric softmax performs ~15% better than parametric softmax; NCE is an efficient approximation.
