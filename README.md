@@ -20,14 +20,17 @@ May include papers on representation learning, unsupervised learning on images o
 - **MoCo** Momentum Contrast for Unsupervised Visual Representation Learning [[pdf]]( https://arxiv.org/pdf/1911.05722.pdf )
 
   - *Contrastive Learning* = To train an encoder for a *dictionary look-up* task/to build a discrete dictionary on high-dimensional continuous inputs such as images; *Contrastive Loss* = A function whose value is low when an encoded query $q$ is similar to its positive key $k_+$ and dissimilar to all other negative keys.
-  - *InfoNCE* and the *instance discrimination task* is used in this paper :  <img src="figures/infoNCE.png" alt="infoNCE" width="300"/>
+  - *InfoNCE* and the *instance discrimination task* is used in this paper :  
+    <img src="figures/infoNCE.png" alt="infoNCE" width="300"/>
 
-  - Previous mechanisms of constrastive losses  <img src="figures/contrastive_loss_mechanisms.png" alt="contrastive_loss_mechanisms" width="500"/>
+  - Previous mechanisms of constrastive losses  
+    <img src="figures/contrastive_loss_mechanisms.png" alt="contrastive_loss_mechanisms" width="500"/>
     - *End-to-end*  update uses samples in the current mini-batch as the dictionary -> the dictionary size is coupled with the mini-batch size
     - *Memory bank* can support a large dictionary size, but it keeps keys encoded at multiple different steps which are less consistent
   - Momentum Contrast
     - Dictionary as a queue (current mini-batch is enqueued and the oldest mini-batch is dequeued) -> the dictionary size is decoupled from the mini-batch size, so that a large dictionary is possible
-    - Momentum update (only the parameters of query encoder are updated by back-propagation) -> the key encoder evolves smoothly, so the keys in the queues are encoded by relatively similar encoders <img src="figures/moco_momentum_update.png" alt="momentum_update" width="250"/>
+    - Momentum update (only the parameters of query encoder are updated by back-propagation) -> the key encoder evolves smoothly, so the keys in the queues are encoded by relatively similar encoders 
+    <img src="figures/moco_momentum_update.png" alt="momentum_update" width="250"/>
 
 
 
