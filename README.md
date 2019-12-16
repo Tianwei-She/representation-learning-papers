@@ -38,6 +38,9 @@ Dimensional Reduction by Learning an Invariant Mapping (Yann LeCun CVPR'06 )  ht
 
 Deep Learning vs. Traditional Computer Vision https://arxiv.org/ftp/arxiv/papers/1910/1910.13796.pdf 
 
+ON MUTUAL INFORMATION MAXIMIZATION FOR REPRESENTATION LEARNING
+On Mutual Information Maximization for Representation Learning (A survey paper on image representation learning using MI maximization) https://arxiv.org/pdf/1907.13625.pdf
+
 DeepInfoMax - Learning deep representations by mutual information estimation and maximization (Yoshua Bengio)   https://arxiv.org/pdf/1808.06670.pdf 
 
 CMC (Contrastive Multiview Coding)  http://people.csail.mit.edu/yonglong/yonglong/cmc_icml_workshop.pdf 
