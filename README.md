@@ -53,3 +53,6 @@ Learning Representations by Maximizing Mutual Information Across Views  https://
 Data-Efficient Image Recognition with Contrastive Predictive Coding  https://arxiv.org/pdf/1905.09272.pdf 
 
 InfoNCE - Representation learning with contrastive predictive coding. arXiv:1807.03748, 2018 
+
+PIRL - Self-Supervised Learning of Pretext-Invariant Representations https://arxiv.org/pdf/1912.01991.pdf
+
