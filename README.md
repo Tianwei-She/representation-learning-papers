@@ -54,5 +54,7 @@ Data-Efficient Image Recognition with Contrastive Predictive Coding  https://arx
 
 InfoNCE - Representation learning with contrastive predictive coding. arXiv:1807.03748, 2018 
 
+Scaling and Benchmarking Self-Supervised Visual Representation Learning, ICCV 2019 https://arxiv.org/pdf/1905.01235.pdf
+
 PIRL - Self-Supervised Learning of Pretext-Invariant Representations https://arxiv.org/pdf/1912.01991.pdf
 
