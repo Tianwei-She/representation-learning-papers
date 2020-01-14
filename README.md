@@ -34,17 +34,17 @@ May include papers on representation learning, unsupervised learning on images o
 
 
 
-Dimensional Reduction by Learning an Invariant Mapping (Yann LeCun CVPR'06 )  http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf 
-
 Deep Learning vs. Traditional Computer Vision https://arxiv.org/ftp/arxiv/papers/1910/1910.13796.pdf 
 
-On Mutual Information Maximization for Representation Learning (A survey paper on image representation learning using MI maximization) https://arxiv.org/pdf/1907.13625.pdf
-
 DeepInfoMax - Learning deep representations by mutual information estimation and maximization (Yoshua Bengio)   https://arxiv.org/pdf/1808.06670.pdf 
+
+InfoNCE - Representation learning with contrastive predictive coding. arXiv:1807.03748, 2018 
 
 CMC (Contrastive Multiview Coding)  http://people.csail.mit.edu/yonglong/yonglong/cmc_icml_workshop.pdf 
 
 CPC (Contrastive Predictive Coding)  https://arxiv.org/pdf/1807.03748.pdf
+
+Revisiting Self-Supervised Visual Representation Learning https://arxiv.org/pdf/1901.09005.pdf
 
 Unsupervised Embedding Learning via Invariant and Spreading Instance Feature  https://arxiv.org/pdf/1904.03436.pdf 
 
@@ -52,9 +52,42 @@ Learning Representations by Maximizing Mutual Information Across Views  https://
 
 Data-Efficient Image Recognition with Contrastive Predictive Coding  https://arxiv.org/pdf/1905.09272.pdf 
 
-InfoNCE - Representation learning with contrastive predictive coding. arXiv:1807.03748, 2018 
+BigBiGAN - Large Scale Adversarial Representation Learning https://arxiv.org/pdf/1907.02544.pdf
 
 Scaling and Benchmarking Self-Supervised Visual Representation Learning, ICCV 2019 https://arxiv.org/pdf/1905.01235.pdf
 
+DeeperCluster - Unsupervised Pre-Training of Image Features on Non-Curated Data https://arxiv.org/pdf/1905.01278.pdf
+
+On Mutual Information Maximization for Representation Learning (A survey paper on image representation learning using MI maximization) https://arxiv.org/pdf/1907.13625.pdf
+
 PIRL - Self-Supervised Learning of Pretext-Invariant Representations https://arxiv.org/pdf/1912.01991.pdf
 
+VIVI - Self-Supervised Learning of Video-Induced Visual Invariances https://arxiv.org/pdf/1912.02783.pdf
+
+
+## Video Representation Learning
+Shuffle and learn: unsupervised learning using temporal order verification, ECCV 2016 https://arxiv.org/pdf/1603.08561.pdf
+
+Self-supervised video representation learning with odd-one-out networks, CVPR 2017 https://arxiv.org/pdf/1611.06646.pdf
+
+OPN - Unsupervised Representation Learning by Sorting Sequences, ICCV 2017 http://openaccess.thecvf.com/content_ICCV_2017/papers/Lee_Unsupervised_Representation_Learning_ICCV_2017_paper.pdf
+
+Geometry Guided Convolutional Neural Networks for Self-Supervised Video Representation Learning, CVPR 2018 http://openaccess.thecvf.com/content_cvpr_2018/papers/Gan_Geometry_Guided_Convolutional_CVPR_2018_paper.pdf
+
+Self-Supervised Video Representation Learning with Space-Time Cubic Puzzles https://arxiv.org/pdf/1811.09795.pdf
+
+Self-supervised Spatio-temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics, CVPR 2019 https://arxiv.org/pdf/1904.03597.pdf
+
+Self-supervised Spatiotemporal Learning via Video Clip Order Prediction, CVPR 2019 http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Self-Supervised_Spatiotemporal_Learning_via_Video_Clip_Order_Prediction_CVPR_2019_paper.pdf
+
+DistInit: Learning Video Representations Without a Single Labeled Video, ICCV 2019 https://arxiv.org/pdf/1901.09244.pdf
+
+RotNet - Self-Supervised Spatiotemporal Feature Learning via Video Rotation Prediction https://arxiv.org/pdf/1811.11387.pdf
+
+Learning Video Representations Using Contrastive Bidirectional Transformer https://arxiv.org/pdf/1906.05743.pdf
+
+Video Representation Learning by Dense Predictive Coding https://arxiv.org/pdf/1909.04656.pdf
+
+End-to-End Learning of Visual Representations from Uncurated Instructional Videos https://arxiv.org/pdf/1912.06430.pdf
+
+Cooperative learning of audio and video models from self-supervised synchronization, NIPS 2018 https://arxiv.org/pdf/1807.00230.pdf
