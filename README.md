@@ -64,6 +64,10 @@ PIRL - Self-Supervised Learning of Pretext-Invariant Representations https://arx
 
 VIVI - Self-Supervised Learning of Video-Induced Visual Invariances https://arxiv.org/pdf/1912.02783.pdf
 
+SimCLR - A Simple Framework for Contrastive Learning of Visual Representations https://arxiv.org/pdf/2002.05709.pdf
+
+MoCo vs. SimCLR - Improved Baselines with Momentum Contrastive Learning https://arxiv.org/abs/2003.04297
+
 
 ## Video Representation Learning
 Shuffle and learn: unsupervised learning using temporal order verification, ECCV 2016 https://arxiv.org/pdf/1603.08561.pdf
