@@ -95,3 +95,5 @@ Video Representation Learning by Dense Predictive Coding https://arxiv.org/pdf/1
 End-to-End Learning of Visual Representations from Uncurated Instructional Videos https://arxiv.org/pdf/1912.06430.pdf
 
 Cooperative learning of audio and video models from self-supervised synchronization, NIPS 2018 https://arxiv.org/pdf/1807.00230.pdf
+
+Video Dataset Overview, by Antoine Miech https://www.di.ens.fr/~miech/datasetviz/
