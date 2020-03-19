@@ -97,3 +97,5 @@ End-to-End Learning of Visual Representations from Uncurated Instructional Video
 Cooperative learning of audio and video models from self-supervised synchronization, NIPS 2018 https://arxiv.org/pdf/1807.00230.pdf
 
 Video Dataset Overview, by Antoine Miech https://www.di.ens.fr/~miech/datasetviz/
+
+Recent evolution of modern datasets for human activity recognition: a deep survey https://link.springer.com/content/pdf/10.1007/s00530-019-00635-7.pdf
